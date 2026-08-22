@@ -1,3 +1,3 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=0DoubleDare&custom_title=My%20stats&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=0DoubleDare&custom_title=My%20stats&show_icons=true&include_all_commits=true&theme=github_dark)
 &emsp;&emsp;&emsp;&emsp;&emsp;
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=0DoubleDare&langs_count=3&hide_values=true&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=0DoubleDare&langs_count=3&hide_values=true&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=0DoubleDare&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=0DoubleDare&langs_count=4&theme=github_dark)
